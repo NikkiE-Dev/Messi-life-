@@ -1,10 +1,10 @@
 body {
-  background: url("img/messi-white.jpg");
+  background: url("/img/messi-white.jpg");
   background-size: cover;
 }
 
 .darkMode{
-  background: url("img/messi-black.jpg");
+  background: url("/img/messi-black.jpg");
   background-size: cover;
   color: black;
 }
